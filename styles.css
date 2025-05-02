@@ -5,8 +5,9 @@
     --link-hover: #f0f0f0;
     --link-shadow: rgba(0, 0, 0, 0.1);
     --music-bg: rgba(255, 255, 255, 0.9);
-    --primary-color: #4a86e8;
-    --secondary-color: #9c27b0;
+   
+    --primary-color: #FF0000; /* Warna merah */
+    --secondary-color: #0000FF; /* Warna biru */
     --transition-speed: 0.4s;
 }
 
